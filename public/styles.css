@@ -1,0 +1,60 @@
+body{
+padding: 0px;
+margin: 50px;  
+background-color: rgb(243, 229, 167);
+}
+
+h1{
+color: rgb(85, 65, 47);
+font-family: "Tangerine", cursive;
+font-size: 100px;
+margin-top: 80px;
+line-height: 10%;
+
+}
+
+p{
+color:rgb(109, 84, 68);
+font-size: 20px;
+
+}
+
+a{
+    color:rgb(172, 51, 102);
+    font-size: 60px;
+    font-family: "Tangerine", cursive;
+    margin-left: 180px;
+    margin-top: 10px;
+    text-decoration: none;
+
+    
+}
+
+.img-autum{
+    padding-top: 70px;
+    margin-left: 0px;
+}
+
+.piso{
+ margin-top: 50px;
+ margin-left: 350px;
+}
+
+h2{
+ color:rgb(109, 84, 68);
+ margin-left: 430px;
+}
+
+.cat{
+    width: 100%;
+}
+
+.cats{
+    display: flex;
+    padding: 5px;
+}
+
+.column{
+  padding: 5px;
+
+}
